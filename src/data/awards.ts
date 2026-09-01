@@ -1,5 +1,4 @@
 import {
-  Crown,
   Headphones,
   MessageCircleMore,
   Pizza,
